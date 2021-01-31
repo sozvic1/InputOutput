@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\InputOutput.csproj", "{03BAF35C-74BD-443D-A0BA-9CCBF4613A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWriter", "TextWriter\TextWriter.csproj", "{FBBD0450-88EB-4C64-8DA6-7DE536986213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFile", "FindFile\FindFile.csproj", "{973254AB-8092-42B4-89B9-D7275CC3D834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BAF35C-74BD-443D-A0BA-9CCBF4613A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BAF35C-74BD-443D-A0BA-9CCBF4613A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BAF35C-74BD-443D-A0BA-9CCBF4613A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BAF35C-74BD-443D-A0BA-9CCBF4613A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBD0450-88EB-4C64-8DA6-7DE536986213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBD0450-88EB-4C64-8DA6-7DE536986213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBD0450-88EB-4C64-8DA6-7DE536986213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBD0450-88EB-4C64-8DA6-7DE536986213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973254AB-8092-42B4-89B9-D7275CC3D834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973254AB-8092-42B4-89B9-D7275CC3D834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973254AB-8092-42B4-89B9-D7275CC3D834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973254AB-8092-42B4-89B9-D7275CC3D834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {649B1B6E-FE70-4D3E-8171-830DCA432C89}
+	EndGlobalSection
+EndGlobal
